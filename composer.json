@@ -1,11 +1,11 @@
 {
-    "name": "overtrue/weather",
-    "description": "A weather SDK.",
+    "name": "lazyuu/weather",
+    "description": "一款天气 SDK.",
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "i@overtrue.me"
+            "name": "lzay",
+            "email": "729011771@qq.com"
         }
     ],
     "autoload": {
